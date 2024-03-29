@@ -1,0 +1,36 @@
+body {
+    background: url('../img/TRAINING-TENTANG-SUPPLY-CHAIN-MANAGEMENT.jpg');
+    background-size: 210vh 60vw;
+    background-repeat: no-repeat;
+    background-color: rgba(200, green, blue, 10.0);
+  }
+
+
+.card{
+    display: flex;
+    position: relative;
+    left: 38%;
+    top: 15vw;
+    bottom: 100%;
+    background-color: rgb(102, 100, 241);
+    z-index: 100;
+}
+
+.card-header {
+    color: white;
+}
+
+label{
+    color: white;
+}
+
+footer {
+    clear: both;
+    position: relative;
+    height: 200px;
+    margin-top: -200px;
+}
+
+label{
+    font-weight: 600;
+}
